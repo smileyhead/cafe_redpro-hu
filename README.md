@@ -2,7 +2,7 @@
 2016. május 11.
 
 ## Kompatibilis a magyarítás a Switch-verzóval (New Super Mario Bros. Deluxe)?
-**Nem**, és valószínűleg nem is lesz, tekintettel arra, hogy ennek az írásakor (2019.12.04) még nincs Switch-em és egyrészt a Switch-es modolás még babacipőkben jár, másrészt Nintendo bácsi felettébb nehézkessé tette a konzol akármilyen feltörését (ha észrevesznek akármilyen módosítást, legyen az ártatlan homebrew-futtatás, vagy rendes kalózkodás, repülsz).
+**Nem**, és valószínűleg nem is lesz, tekintettel arra, hogy ennek az írásakor (2019.12.04) még nincs Switch-em és egyrészt a Switch-es modolás még babacipőkben jár, másrészt Nintendo bácsi felettébb nehézkessé tette a konzol akármilyen feltörését (ha észrevesznek akármilyen módosítást, legyen az ártatlan homebrew-futtatás, vagy rendes kalózkodás, repülsz).  
 A magyarítás jelenlegi állapotában a Switch-verzió újításai miatt biztosan nem kompatibilis, és a fent említett okok miatt nem tervezek Deluxe-támogatást (legalábbis egyenlőre).
 
 ## Telepítési útmutató
@@ -16,7 +16,7 @@ Mivel a Wii U egy régiózárral rendelkező konzol, a játékok minden régiób
 A New Super Mario Bros. U szoftverazonosítója `10101x00`, ahol az `x`
 - Japánban `C`
 - Amerikában `D`
-- Európában `E`
+- Európában `E`  
 **Megjegyzés:** Az SDCafiine-es módszerhez a hosszabb formátumú szoftverazonosítóra lesz szükséged, ami a következő: `0005000010101x00`
 
 ### Modok telepítése Wii U-n
@@ -26,8 +26,8 @@ Wii U-n három lehezőséged van, ha egy modot akarsz telepíteni. FTPiiU Everyw
 - Használj **SDCafiine**-t, ha nem akarod módosítani az eredeti fájlokat és nem sajnálsz mindig futtatni egy programot játék előtt.
 
 ### 1. lehetőség: FTPiiU Everywhere
-**Figyelmeztetés:** Készíts biztonsági mentést minden fájlról, amit felülírni kívánsz.
-**Megjegyzés:** Az FTPiiU Everywhere nem ugyanaz, mint az FTPiiU. Amíg az FTPiiU csak az SD kártyához biztosít hozzáférést, az FTPiiU Everywhere-rel a konzol belső memóriáját is szerkesztheted és erre szükséged is lesz.
+**Figyelmeztetés:** Készíts biztonsági mentést minden fájlról, amit felülírni kívánsz.  
+**Megjegyzés:** Az FTPiiU Everywhere nem ugyanaz, mint az FTPiiU. Amíg az FTPiiU csak az SD kártyához biztosít hozzáférést, az FTPiiU Everywhere-rel a konzol belső memóriáját is szerkesztheted és erre szükséged is lesz.  
 **Másik megjegyzés:** Ehhez a módszerhez telepítve kell, hogy legyen a játék a rendszer belső memóriájára.
 
 1. Navigálj ide: `/storage_mlc/usr/title/`
@@ -41,7 +41,7 @@ Wii U-n három lehezőséged van, ha egy modot akarsz telepíteni. FTPiiU Everyw
 3. Kész! Ha jól csináltad, akkor a HOME Menüből indítva a játék magyar nyelven fog elindulni!
 
 ### 2. lehetőség: Loadiine GX2
-**Megjegyzés:** Ugyan a Loadiine továbbra is kiválóan működik, 2017 óta nem volt új verziója, és manapság kissé elavultnak számít. Csak akkor válaszd ezt a megoldást, ha biztosan így akarsz játszani.
+**Megjegyzés:** Ugyan a Loadiine továbbra is kiválóan működik, 2017 óta nem volt új verziója, és manapság kissé elavultnak számít. Csak akkor válaszd ezt a megoldást, ha biztosan így akarsz játszani.  
 **Másik megjegyzés:** Ehhez a módszerhez szükséged lesz egy Loadiine-formátumú (kicsomagolt) játékra. Vagy másold le a játékot magadnak, vagy szerezd be „ultra-legális módon.”
 
 1. Nyisd meg a játék mappáját és másold be az MSBT fájlokat ide: `/content/EU/English`
