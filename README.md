@@ -1,5 +1,5 @@
 # New Super Mario Bros. U magyarítás
-2016. május 11.
+ 2016. május 11.
 
 ## Kompatibilis a magyarítás a Switch-verzóval (New Super Mario Bros. Deluxe)?
 **Nem**, és valószínűleg nem is lesz, tekintettel arra, hogy ennek az írásakor (2019.12.04) még nincs Switch-em és egyrészt a Switch-es modolás még babacipőkben jár, másrészt Nintendo bácsi felettébb nehézkessé tette a konzol akármilyen feltörését (ha észrevesznek akármilyen módosítást, legyen az ártatlan homebrew-futtatás, vagy rendes kalózkodás, repülsz).  
