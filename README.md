@@ -12,7 +12,7 @@ A magyarítás jelenlegi állapotában a Switch-verzió újításai miatt biztos
 Ahhoz, hogy játékokat modolhass egy Wii U-n, először fel kell ahhoz törnöd. Lásd: [Az Útmutatót](https://wiiu.hacks.guide/).
 
 ### A szoftverazonosítókról
-Mivel a Wii U egy régiózárral rendelkező konzol, a játékok minden régióban különböző szoftverazonosítókkal (Title ID) jelennek meg. Mivel ezt olvasod, valószínűleg magyar vagy, így valószínüleg európai régiújú konzolod és játékod van. Ha mégis bizonytalan lennél, nézd meg a játék lemezét. A képes felén alul van három csoport szöveg. A középső így fog kinézni: `MODEL NO. WUP-006(EUR)`. Ha a zárójelben lévő szöveg **EUR**, akkor európai játékod van, ha **USA** akkor amerikai, illetve ha **JAP**, akkor japán.
+Mivel a Wii U egy régiózárral rendelkező konzol, a játékok minden régióban különböző szoftverazonosítókkal (Title ID) jelennek meg. Mivel ezt olvasod, valószínűleg magyar vagy, így valószínűleg európai régiújú konzolod és játékod van. Ha mégis bizonytalan lennél, nézd meg a játék lemezét. A képes felén alul van három csoport szöveg. A középső így fog kinézni: `MODEL NO. WUP-006(EUR)`. Ha a zárójelben lévő szöveg **EUR**, akkor európai játékod van, ha **USA** akkor amerikai, illetve ha **JAP**, akkor japán.
 A New Super Mario Bros. U szoftverazonosítója `10101x00`, ahol az `x`
 - Japánban `C`
 - Amerikában `D`
