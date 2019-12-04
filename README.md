@@ -20,7 +20,7 @@ A New Super Mario Bros. U szoftverazonosítója `10101x00`, ahol az `x`
 **Megjegyzés:** Az SDCafiine-es módszerhez a hosszabb formátumú szoftverazonosítóra lesz szükséged, ami a következő: `0005000010101x00`
 
 ### Modok telepítése Wii U-n
-Wii U-n három lehezőséged van, ha egy modot akarsz telepíteni. FTPiiU Everywhere, Loadiine GX2, és SDCafiine.
+Wii U-n három lehetőséged van, ha egy modot akarsz telepíteni. FTPiiU Everywhere, Loadiine GX2, és SDCafiine.
 - Használj **FTPiiU Everywhere**-t, ha a játékod a konzolra van telepítve és nem sajnálod felülírni az eredeti fájlokat.
 - Használj **Loadiine GX2**-t, ha inkább lemásolnád a játékod, ~~vagy ha Loadiine-os kalóz verziót használsz.~~
 - Használj **SDCafiine**-t, ha nem akarod módosítani az eredeti fájlokat és nem sajnálsz mindig futtatni egy programot játék előtt.
